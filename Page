@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang=de>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Einführung in Programmieren</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css"                    
+          href="/Users/SchmidtC/Documents/workspaces/Brackets">
+</head>
+
+<body>
+    <div class=header>Header</div>
+    <header>Header</header>
+    <main>
+        <h1> Einführung in Programmieren</h1>
+        <tag1>Erster Tag Inhalt</tag1>
+        <div class=section>
+            <article>
+                <section> 
+                    <p>Paragraph</p>
+                </section>
+            </article>
+        </div>
+    </main>
+    <footer>Footer</footer>
+</body>
+</html>
